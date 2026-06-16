@@ -119,9 +119,4 @@ Open to Research Internships & Collaborations
 ---
 
 > "Building AI for science, healthcare, and discovery."
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiriuaex&show_icons=true&locale=en&layout=compact" alt="xiriuaex" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiriuaex&show_icons=true&locale=en" alt="xiriuaex" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiriuaex&" alt="xiriuaex" /></p>
+ 
