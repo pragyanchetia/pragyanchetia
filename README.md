@@ -10,13 +10,11 @@
 
 🔬 Working on AI for Medical Imaging
 
-📄 Conference Paper under review in CT Image Analysis
-
 🎓 MCA Student at Tezpur University
 
 🧠 Interested in Deep Learning, Computer Vision, Computational Biology, and Scientific AI
 
-📚 Currently involved in publication-oriented research projects
+📚 Currently involved in research projects under domain of Medical imaging and Deep Learning
 
 💡 Exploring Vision Transformers, Medical Image Segmentation, and Healthcare AI
 
@@ -49,8 +47,7 @@
 
 * Research Internships
 * Academic Collaborations
-* AI Research Opportunities
-* Medical Imaging Projects
+* AI Research Opportunities 
 
 ---
 
@@ -96,31 +93,20 @@
 
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
+</a> 
 
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
+</a> 
 </p>
 
 ---
 
 ### Research Goals
 
-✔ Publish high-quality research papers
+✔ High-quality research 
 
-✔ Contribute to AI-driven healthcare solutions
-
-✔ Secure research internships at leading labs
+✔ Contribute to AI-driven healthcare solutions 
 
 ✔ Build a career in Research Engineering and Applied AI
 
